@@ -1,7 +1,13 @@
+body, html {
+    margin-top: 60px;
+    /* Center and scale the image nicely */
+    background: url("../../img/Home_background.png") no-repeat top center;
+    background-size: cover;
+}
+
 .home-container {
     text-align: center;
-    margin: 20px;
-
+    height: 100%;
 }
 
 .home-title {

@@ -40,3 +40,29 @@
 .h1 {
   text-align: center;
 }
+
+body, html {
+  /* Center and scale the image nicely */
+  background: url("../img/Home_background.png") no-repeat top center;
+  background-size: cover;
+}
+
+.home-container {
+  margin-top: 60px;
+  height: 100%;
+}
+
+.home-title {
+  /* Styles for the h1 element */
+  text-align: center;
+  font-size: 50px;
+  font-family: Charter, serif;
+}
+
+#Navbar{
+  padding-left: 50px;
+}
+
+.Navbar-item{
+  margin: 5px;
+}
