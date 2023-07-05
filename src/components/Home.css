@@ -1,0 +1,11 @@
+.home-container {
+    text-align: center;
+    margin: 20px;
+
+}
+
+.home-title {
+    /* Styles for the h1 element */
+    font-size: 50px;
+    font-family: Charter;
+}
