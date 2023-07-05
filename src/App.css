@@ -41,14 +41,14 @@
   text-align: center;
 }
 
-body, html {
+body {
   /* Center and scale the image nicely */
   background: url("../img/Home_background.png") no-repeat top center;
   background-size: cover;
 }
 
 .home-container {
-  margin-top: 60px;
+  padding-top: 60px;
   height: 100%;
 }
 
@@ -59,10 +59,6 @@ body, html {
   font-family: Charter, serif;
 }
 
-#Navbar{
-  padding-left: 50px;
-}
-
-.Navbar-item{
-  margin: 5px;
+.top-nav {
+  background-color: bisque;
 }
