@@ -15,6 +15,14 @@ const Home = () => {
                     buttonText="Learn More"
                     link="/blog"
                 />
+                <Card
+                    imgSrc="https://picsum.photos/300/200"
+                    imgAlt="Placeholder image"
+                    title="Card Title"
+                    description="This is the description on the card"
+                    buttonText="Learn More"
+                    link="/blog"
+                />
         </div>
         </div>
     );
