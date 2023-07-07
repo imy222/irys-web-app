@@ -62,3 +62,7 @@ body {
 .top-nav {
   background-color: bisque;
 }
+
+#Navbar {
+  margin-left: 20px;
+}
